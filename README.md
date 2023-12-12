@@ -5,7 +5,7 @@
 💻 Tenho expêriencia em criação de sites instituicionais, e recentemente tenho me dedicado ao desenvolvimento mobile IOS, onde vem sendo meu foco atual.<br>
 
 
- <div style="display: inline_block"><br>
+ <div style="display: flex"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias em que tenho experiência <3</h1>
      <img align="center" height="30" width="40" alt="js- 
