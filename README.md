@@ -6,7 +6,8 @@
 
 
  <div style="display: flex" align="center"><br>
-    <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    
+  <img align="center" height="300" width="300" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png](https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47qesppshrau2vnh8336xeih4wxegj1n92ivsoh0sw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
     <h3 align="center">Tecnologias em que tenho experiência <3</h3>
      <img align="center" height="50" width="50" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png">
      <img align="center" height="50" width="50" alt="js- 
