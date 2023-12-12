@@ -8,12 +8,12 @@
  <div style="display: flex"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h3 align="center">Tecnologias em que tenho experiência <3</h3>
-     <img align="center" height="30" width="30" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png">
-     <img align="center" height="30" width="40" alt="js- 
+     <img align="center" height="50" width="50" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png">
+     <img align="center" height="50" width="50" alt="js- 
 icon"src="https://camo.githubusercontent.com/6c6be30e4905a1b519c59c6d211eab52dff75e7bdbadc43c65ed2f2c7b2cde0b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f78636f64652f78636f64652d6f726967696e616c2e737667">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="30" alt="c-icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
+    <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+    <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="50" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="50" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="50" width="50" alt="c-icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
 </div>
