@@ -6,7 +6,7 @@
 
 
  <div style="display: flex" align="center"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     <h3 align="center">Tecnologias em que tenho experiência <3</h3>
      <img align="center" height="50" width="50" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png">
      <img align="center" height="50" width="50" alt="js- 
