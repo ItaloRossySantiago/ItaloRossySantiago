@@ -17,8 +17,8 @@ icon"src="https://camo.githubusercontent.com/6c6be30e4905a1b519c59c6d211eab52dff
     <img align="center" height="50" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="50" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="50" width="50" alt="c-icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
-</div>
-<table>
+
+     <table>
     <tr>
         <td align="center">
             <img
@@ -42,3 +42,5 @@ icon"src="https://camo.githubusercontent.com/6c6be30e4905a1b519c59c6d211eab52dff
         </td>
     </tr>
 </table>
+</div>
+
