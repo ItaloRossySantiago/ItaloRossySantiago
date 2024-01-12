@@ -10,8 +10,6 @@
   <img align="center" height="300" width="300" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png](https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47qesppshrau2vnh8336xeih4wxegj1n92ivsoh0sw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
     <h3 align="center">Tecnologias em que tenho experiência <3</h3>
      <img align="center" height="50" width="50" alt="js-icon"  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/swift_vertical_logo_icon_168769.png">
-     <img align="center" height="50" width="50" alt="js- 
-icon"src="https://camo.githubusercontent.com/6c6be30e4905a1b519c59c6d211eab52dff75e7bdbadc43c65ed2f2c7b2cde0b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f78636f64652f78636f64652d6f726967696e616c2e737667">
     <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
     <img align="center" height="50" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="50" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
